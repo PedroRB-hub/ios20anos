@@ -4,12 +4,11 @@
   text-decoration: none;
 }
 body {
-  font-family: Haettenschweiler, "Arial Narrow Bold", sans-serif;
+  font-family: Haettenschweiler,  sans-serif;
   background-color: #fefbe9;
   color: #183a1d;
 }
 header {
-  /* background-color: aqua; */
   margin: 10px;
   text-align: center;
 }
@@ -31,12 +30,7 @@ a:visited {
   color: #183a1d;
 }
 .img {
-  /* The image used */
-
-  /* Set a specific height */
   min-height: 350px;
-
-  /* Create the parallax scrolling effect */
   background-attachment: scroll;
   background-position: center;
   background-repeat: no-repeat;
